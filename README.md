@@ -50,7 +50,7 @@ Janberk Sahin managed me at COREN. Here is the recommendations from linkedin.
 
 <a name="gen3"></a>
 ### Gen3 Creative (2011 - 9 months)
-Gen3 is a creative agency.
+<a href="http://gen3.com.tr/">Gen3</a> is a creative agency.
 They are creating really impressive designs.
 I started to work at Gen3 to improve my UI skills.
 I worked as Full Stack Developer. 
@@ -61,7 +61,7 @@ I used php CMS frameworks, shop scripts etc.
  
 <a name="atamedya"></a>
 ### Atamedya (2012 - 7 months)
-Atamedya is a company which provides services to thousands of clients like SEO, Hosting, web based applications, corporate webpages, e-commerce solutions etc.
+<a href="https://www.linkedin.com/company/ata-yayıncılık-ve-bilişim-teknolojileri-ltd.-şti./about/">Atamedya</a> is a company which provides services to thousands of clients like SEO, Hosting, web based applications, corporate webpages, e-commerce solutions etc.
 
 When I joined the company, they were using old ASP software to manage all customers.
 I developed the new one in 5 months.
