@@ -1,5 +1,14 @@
 # Emre Can Yılmaz
+Date of Birth: 1992-05-23
 
+- Profiles & Accounts
+    - <a href="https://www.linkedin.com/in/ecanyilmaz/">Linkedin</a>
+    - <a href="https://stackoverflow.com/users/1708629/levye">StackOverflow</a>
+    - <a href="https://github.com/iLevye/">GitHub<a>
+    
+- Languages
+    - Turkish (Natively)
+    - English (Intermediate)
 - [Companies I've worked](#companies)
     - [COREN Elektrik](#coren) (2010)
         - Smarty, ezSQL, mysql, jquery 
