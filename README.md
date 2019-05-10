@@ -106,7 +106,7 @@ I outsourced ongoing unity projects but deployed myself.
 ### Freelance (from 2016 January till now)
 
 In my career I managed too much things but I realized I still don't know some basic engineering things like OOP, TDD
-So I decided to improve my technical knowledge and I started working as a freelancer.
+So I decided to improve my technical knowledge and I started working as a freelancer. There are more projects than these that I mentioned below. 
 <a name="native-ios"></a>
 #### Native iOS Application
 First project was a native iOS app. I used OpenCV to scan faces from camera.
