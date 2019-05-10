@@ -15,7 +15,7 @@
     - [pharos](#pharos) (2015)
         - Crises management
         - Automated jobs
-    - [freelance](#freelance) (2016 - Currently)
+    - [Freelance](#freelance) (2016 - Currently)
         - OOP, TDD, React Native
         - [Native iOS Application](#native-ios)
         - [Symfony Dashboard Application](#dashboard)
@@ -24,10 +24,10 @@
         - [Mobile app with Cordova, Java, Swift, Objective C](#linka)
         - [React Native app](#react-native-app)
         - [Time Tracker application](#time-tracker)
-- [Thinks I feel confortable](#comfortable)
-- [Thinks I hate](#hate)
-- [Thinks I want to learn](#toLearn)
-- [Hobbies](#hobbies)
+- [Things I feel confortable working with](#comfortable)
+- [Things I hate](#hate)
+- [Things I want to learn](#toLearn)
+- [Interests](#hobbies)
  
 
 <a name="companies"></a>
@@ -84,8 +84,9 @@ Mehmet Turac, gave me a recommendation on linkedin about this position
 ### pharos (2015 - 1 year 3 months)
 <a href="https://www.linkedin.com/company/pharos-consulting-group/about/">pharos</a> is a digital marketing agency.
 I was there as a 6th member of development team as a PHP Developer.
-After I joined to company, some bad things happened in Turkey and other members leaved to country. 
-So, I stayed in and managed the crisis alone with automated scripts.
+After I joined the company, some bad things happened in Turkey and other members left the country. 
+So, I stayed in and managed the crisis alone with automated scripts. 
+That is how I got the weird title "Digital Hero". 
 
 I moved dedicated servers to cloud hosts to manage it easy.
 
@@ -102,7 +103,7 @@ So we were able to monitor everything, automate reports, extra validations, mana
 
 I outsourced ongoing unity projects but deployed myself.
 <a name="freelance"></a>
-### freelance (from 2016 January till now)
+### Freelance (from 2016 January till now)
 
 In my career I managed too much things but I realized I still don't know some basic engineering things like OOP, TDD
 So I decided to improve my technical knowledge and I started working as a freelancer.
@@ -114,54 +115,54 @@ First project was a native iOS app. I used OpenCV to scan faces from camera.
 I developed a dashboard for an ad network exchange company in Netherland. 
 I integrated it to Google Ad Manager (known as DoubleClick for Publishers).
 So, publishers can see their graphs, manage payments etc.
-It also accept more than 10 different report templates to import data.
+It also accepts more than 10 different report templates to import data.
 It is an ongoing project. I'm working on it since 2017 March.
 It also has JWT authentication, mobile app also uses same endpoints with web application.
 <a name="gamification"></a>
 #### Loyalty, Gamification 
-I started to develop a loyalty club for a supermarket chain at 2016.
-It is integrated with Instagram, Facebook, Twitter, YouTube, YouTube Live, SurveyMonkey and more than that.
+I started to develop a loyalty club for a supermarket chain in 2016.
+It is linked with Instagram, Facebook, Twitter, YouTube, YouTube Live, SurveyMonkey and more than that.
 Users can complete tasks with social media accounts, 
 like sharing story on instagram, being active on live youtube streams, sharing posts on facebook. 
-Completing tasks gives points and users can spend this points on supermarket with their Club Card.
-It also has game mechanics such as badges and levels, teams. 
+Users earning points through completing tasks and they can spend these points on supermarket with their Club Card.
+It also has game mechanism such as badges, levels and teams. 
 I'm working with a MySQL developer to optimize queries.
-And we are taking penetration test from different cyber security teams every 6 years.
+And we are taking penetration test from different cyber security teams every 6 months.
 Except that, I'm managing all the things even servers.
 I'm still working on this project.
 <a name="cordova"></a>
 #### Android app with cordova
-I made an android app for fast food restaurants. It is integrated with Turkish Airlines and Pegasus.
-They are using it on the cash desk. It can scan passengers ticket. If there is a delay they can use discount.
-It also integrated with movie theaters, gsm operators etc. I'm still supporting the issues if they have.
+I made an android app for fast food chain. It is integrated with Turkish Airlines and Pegasus.
+They are using it on the cash desk. It can scan passengers tickets. If there is a delay, they can use discounts.
+Also integrated with movie theaters, GSM operators etc. I still work with them when they have an issue.
 <a name="linka"></a>
 #### Mobile app with Cordova, Java, Swift, Objective C
 I made a cordova app for a start-up in Germany and integrated it with <a href="https://www.linkalock.com/">a bluetooth device</a>. 
-I developed the cordova plugin (bridge code that I need to use native SDK libraries) for both of Android and iOS.
-It never published, company sold before app goes live.
+I developed the cordova plugin (bridge code that I needs to use native SDK) for both of Android and iOS.
+It was never published, the company was sold before it could go live.
 <a name="react-native-app"></a>
 #### React Native app 
 I made an application with React Native at late 2017. 
 Users can analyze their Instagram and Twitter accounts with it.
 It has more than 1 million users now.
-Currently I'm working for a new version of this app.
+Currently I'm working for a new version for this app.
 <a name="time-tracker"></a>
 #### Time Tracker application
 I used <a href="https://www.getharvest.com/">Harvest</a> to track my time sheets and manage my finance for a long time.
 And I realized I'm spending too much money for it and there are lot of bugs they can't fix. 
 I launched to <a href="https://github.com/iLevye/time-is-revenue">my own time tracking</a> tool in a night.
-Currently only me and a few friends using it. I want to make it an open source product. 
+Currently only me and a few friends are using it. I want to make it an open source product. 
 <a name="comfortable"></a>
-## Thinks I feel comfortable
+## Things I feel comfortable working with
 Symfony, React Native, Redux, MySQL, ES6, Git, Apache, Test Driven Development, Firebase, Xcode, PhpStorm, WebStorm, PhpUnit, <a href="https://www.charlesproxy.com/">Charles</a>, Asana 
 <a name="hate"></a>
-## Thinks I hate
+## Things I hate
 Regular expression, Microsoft technologies such as Windows Server, .NET
 <a name="toLearn"></a>
-## Thinks I want to learn
+## Things I want to learn
 <a href="https://github.com/bencagri/symfony4-ddd">Domain Driven Development</a>, 
 Elasticsearch, Event Sourcing, CQRS, <a href="https://www.hyperledger.org/">Hyperledger</a>
 <a name="hobbies"></a>
-## Hobbies
+## Interests 
 Dota2, inline skate
 
